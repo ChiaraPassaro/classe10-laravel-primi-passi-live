@@ -17,7 +17,7 @@ a {
 
 /* MAIN */
 
-main {
+main .container.products {
   background-image: url(/images/fondo-pag-speciali.jpg?2f95c43d2f5c6ce37bf1838709b316a3);
 }
 
